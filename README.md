@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-On-going project
-=======
 Greetings to the MOST COMPLETE, CONTINUOUSLY UPDATED independent dbt™ (Data Build Tool) software course in the world - as of 2026! This course is both the TOP RATED and the BESTSELLER dbt course on Udemy! 
 
 Course website: https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?referralCode=659B6722C93EF4096D11
@@ -78,4 +75,3 @@ We can't wait to get started with you soon!
 
 All the best,
 Zoltan C. Toth
->>>>>>> upstream/main
